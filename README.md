@@ -23,4 +23,6 @@ A beginner-friendly computer vision project that allows users to control mouse m
    python virtual_mouse.py
 
 ## Author
-Your Name
+Prathmesh Kumbar
+
+
